@@ -6,7 +6,7 @@ Our final project for SE575 is a blockchain application built with Typescript an
 ## Additional Dependencies
 Crypto-js is a required library for our implementation's hash generation. It can be installed with yarn as follows:
 ```
-yarn install crypto-js
+yarn add crypto-js
 ```
 or it can be installed with npm:
 ```
