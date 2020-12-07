@@ -1,6 +1,6 @@
 # TSBlockchain
 TSBlockchain - Laura M., Matt P., Jeff B.   
-Final Project for SE575 built with Typescript and Vue, which were both new to every member of our team and provided an interesting challenge. Additionally, reactive BootstrapVue components are used to convey important aspects of the application to the user.
+Our final Project for SE575 is a blockchain application built with Typescript and Vue, which were both new to every member of our team and provided an interesting challenge. Additionally, reactive BootstrapVue components are used to convey important aspects of the application to the user.
 
 
 ## Additional Dependencies
