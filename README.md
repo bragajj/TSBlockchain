@@ -29,7 +29,7 @@ bash start-test-server.sh
 ```
 Finally, open a web browser and head to http://localhost:8080/ for the front end and user interface. The json-server backend can be viewed at http://localhost:3000/blocks
 
-You should see the following at http://localhost:8080/:
+You should see the following at http://localhost:8080/:  
 ![initialscreen8080](startscreen.png)
 
 ### Additional yarn commands
