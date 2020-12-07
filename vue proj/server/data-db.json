@@ -1,22 +1,5 @@
 {
   "blocks": [
-    {
-      "id": 1,
-      "hash": "0b26b5199bbf259777b902842cc667489c0e5b77d841818ba4caac9c2a5ad3e7",
-      "priorHash": "af21a5a7e781414961f3befe19d5f6866633d06ea5a55057e5297544a9eb1a50",
-      "timestamp": 3,
-      "data": "1krjfjldksf",
-      "difficultyLevel": 0,
-      "nonce": 16,
-      "hashSuccess": true,
-      "hashFail": false
-    },
-    {
-      "id": 2
-    },
-    {
-      "id": 3
-    }
   ],
   "courses": [
     {
