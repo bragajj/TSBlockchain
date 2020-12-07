@@ -13,7 +13,7 @@ or it can be installed with npm:
 npm install crypto-js
 ```
 
-## Project setup
+## Project Setup
 After cloning or downloading our code repository and installing dependencies, head to the vue proj folder and enter the following two commands from command line or terminal.
 ```
 yarn install
