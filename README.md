@@ -30,7 +30,7 @@ bash start-test-server.sh
 Finally, open a web browser and head to http://localhost:8080/ for the front end and user interface. The json-server backend can be viewed at http://localhost:3000/blocks
 
 You should see the following at http://localhost:8080/:
-![initialscreen8080](https://drive.google.com/file/d/1XPM4G8CPzgKv4E32ZNeAopEUYNpz2NXv/view?usp=sharing)
+![initialscreen8080](startscreen.png)
 
 ### Additional yarn commands
 To build production level static files rather than reloadable development, you may use yarn build instead of yarn serve
